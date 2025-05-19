@@ -59,6 +59,4 @@ Scheduled triggers using Amazon EventBridge
 
 Deployment via ECS Fargate
 
-NLP model upgrades (e.g., BERT-based sentiment)
 
-User authentication and data filtering options in the dashboard
